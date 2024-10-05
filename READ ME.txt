@@ -1,0 +1,1 @@
+The goal of this module is to recreate the "Flagpole Base" part from scratch, and assemble the full assembly afterwards. Good luck CADders
